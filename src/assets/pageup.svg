@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="300" height="300" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <image width="96" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABHNCSVQICAgIfAhkiAAAAcNJREFUeJzt3d1NAzEUBWEbUUBaoIPQ0XaWUigBOqAE6ODwEIQShDH5Y+xkvkeQosuOvHcViChFkiRJkiRJt6ImCT3ELbujB7h1BoAZAGYAmAFg961v1Frrfw5y7VpPm54AmAFgBoAZAGYAWPMpiHLp96ZGe7rzBMAMADMAzAAwA8CGewoa7Snl0jwBMAPADAAzAMwAsKkDJFmSLPQcJ0kDPVdPkvXOuGt6np7mdZ4xQJJVkredcd+SrOi5ftO6zrPegp5KKbsXfPX5tfnMdgKSbFozJ9nQ87VcxS0o26Xbs9Bz/mT6ANlfuj3DLeXWoM0/Tx/pTbFsF+xr2b/v/+a9lPJQa32/3FSHaV3nWZbw96XbM81SHj5Atov1mFvKOgMv5S8j74D8ben2LPTPUcqEOyDbRfp8ppd7rLW+nOm1jtK8ziMGOGLp9uBLebYlfOjS7Rl2KQ8X4ISl2zPkUh7yFtRzTTMPdwJujQFgBoAZAGYAmAFgBoAZAGYAmAFgBoAZAGYAmAFgBoAZAGYAmAFgBoAZADbcJ+X/YuRfvh/KEwAzAMwAMAPADADzP2jAPAEwA8AMADMAzACSJEmSJEnSP/kAJmhd2+RC78QAAAAASUVORK5CYII=" id="img_1" />
+    <pattern patternUnits="objectBoundingBox" y="-0%" height="100%" width="100%" id="pattern_1">
+      <use xlink:href="#img_1" transform="scale(2.2916667,2.2916667)" />
+      <path d="M0 0L220 0L220 220L0 220L0 0Z" id="ShapePath" fill="#25272E" fill-rule="evenodd" stroke="none" />
+    </pattern>
+  </defs>
+  <g id="Artboard-4" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M1398 -1372L1618 -1372L1618 -1152L1398 -1152L1398 -1372Z" id="ShapePath" fill="url(#pattern_1)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
